@@ -1,6 +1,7 @@
 ### Hi there 👋
-## 123
-
+- 🌱 I’m currently learning python
+- 😄 Pronouns: he/him/his
+- 🤔 I’m looking for help with coding
 <!--
 **Richardz-314/Richardz-314** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
